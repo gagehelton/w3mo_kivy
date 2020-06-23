@@ -1,5 +1,5 @@
 # Overview
-* w3mo-kivy is a simple Kivy UI for the [w3mo]("https://www.github.com/mghelton/w3mo") project
+* w3mo-kivy is a simple Kivy UI for the [w3mo](https://www.github.com/mghelton/w3mo) project
 * DISCLAIMER: this UI isn't built in any way for distribution. If you'd like that, please submit a pull request!
 
 # Installation & Usage
