@@ -15,8 +15,8 @@ pip3 install w3mo-kivy
 ![](assets/main_page.png)
 
 ```bash
-git clone https://github.com/mghelton/w3mo
-cd ./w3mo
+git clone https://github.com/mghelton/w3mo_kivy
+cd ./w3mo_kivy
 pip3 install .
-python3 w3mo/ui.py
+python3 ui/ui.py
 ```
