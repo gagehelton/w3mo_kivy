@@ -6,6 +6,10 @@
 
 
 # Installation & Usage
+```bash
+pip3 install w3mo-kivy
+```
+
 * This operation runs a simple Kivy user interface that populates a list with all found devices
 
 ![](assets/loading_page.png)
