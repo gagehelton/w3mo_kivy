@@ -1,11 +1,9 @@
-<span>[![Downloads](https://pepy.tech/badge/w3mo)](https://pepy.tech/project/w3mo-kivy) 
-[![Downloads](https://pepy.tech/badge/w3mo/month)](https://pepy.tech/project/w3mo-kivy/month)
-[![Downloads](https://pepy.tech/badge/w3mo/week)](https://pepy.tech/project/w3mo-kivy/week)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/mghelton/w3mo-kivy.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mghelton/w3mo-kivy/context:python)
-</span>
-
+# Overview
+* w3mo-kivy is a simple Kivy UI for the [w3mo]("https://www.github.com/mghelton/w3mo") project
+* DISCLAIMER: this UI isn't built in any way for distribution. If you'd like that, please submit a pull request!
 
 # Installation & Usage
+* The below install doesn't allow you to run the UI directly from the terminal. You must clone the repo and run it with python.
 ```bash
 pip3 install w3mo-kivy
 ```

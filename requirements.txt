@@ -12,4 +12,4 @@ Pygments==2.6.1
 PyInstaller==3.6
 requests==2.23.0
 urllib3==1.25.9
-w3mo
+w3mo>=0.1.7
